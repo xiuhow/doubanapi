@@ -1,0 +1,15 @@
+name = "douban-api"
+compatibility_date = "2024-09-18"
+
+# Cloudflare Pages Functions 配置
+pages_build_output_dir = "."
+compatibility_flags = ["nodejs_compat"]
+
+# 仅支持的环境
+[env.preview]
+  pages_build_output_dir = "."
+  compatibility_flags = ["nodejs_compat"]
+
+[env.production]
+  pages_build_output_dir = "."
+  compatibility_flags = ["nodejs_compat"]

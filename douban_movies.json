@@ -1,0 +1,2786 @@
+{
+  "movies": {
+    "nowPlaying": [
+      {
+        "title": "731",
+        "score": 0,
+        "releaseDate": "2025",
+        "duration": "125分钟",
+        "region": "中国大陆",
+        "directors": [
+          "赵林山"
+        ],
+        "actors": [
+          "姜武 ",
+          " 王志文 ",
+          " 李乃文"
+        ],
+        "votes": 0,
+        "poster": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2923955351.webp",
+        "link": "https://movie.douban.com/subject/27605659/?from=playing_poster",
+        "type": "now_playing"
+      },
+      {
+        "title": "窗外是蓝星",
+        "score": 8.6,
+        "releaseDate": "2025",
+        "duration": "90分钟",
+        "region": "中国大陆",
+        "directors": [
+          "朱翌冉"
+        ],
+        "actors": [
+          "翟志刚 ",
+          " 王亚平 ",
+          " 叶光富"
+        ],
+        "votes": 0,
+        "poster": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2924758250.webp",
+        "link": "https://movie.douban.com/subject/37007685/?from=playing_poster",
+        "type": "now_playing"
+      },
+      {
+        "title": "轻于鸿毛",
+        "score": 6.4,
+        "releaseDate": "2025",
+        "duration": "108分钟",
+        "region": "中国大陆",
+        "directors": [
+          "周铨"
+        ],
+        "actors": [
+          "宋佳 ",
+          " 佟丽娅 ",
+          " 詹鑫"
+        ],
+        "votes": 0,
+        "poster": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2924927926.webp",
+        "link": "https://movie.douban.com/subject/36782374/?from=playing_poster",
+        "type": "now_playing"
+      },
+      {
+        "title": "捕风追影",
+        "score": 8.2,
+        "releaseDate": "2025",
+        "duration": "141分钟",
+        "region": "中国大陆 中国香港",
+        "directors": [
+          "杨子"
+        ],
+        "actors": [
+          "成龙 ",
+          " 张子枫 ",
+          " 梁家辉"
+        ],
+        "votes": 0,
+        "poster": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2924069675.webp",
+        "link": "https://movie.douban.com/subject/36600459/?from=playing_poster",
+        "type": "now_playing"
+      },
+      {
+        "title": "关于约会的一切",
+        "score": 8.1,
+        "releaseDate": "2025",
+        "duration": "97分钟",
+        "region": "意大利",
+        "directors": [
+          "保罗·杰诺维塞"
+        ],
+        "actors": [
+          "爱德华多·莱奥 ",
+          " 皮拉尔·福格莉亚蒂 ",
+          " 埃马努艾拉·法内利"
+        ],
+        "votes": 0,
+        "poster": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2924636647.webp",
+        "link": "https://movie.douban.com/subject/37067150/?from=playing_poster",
+        "type": "now_playing"
+      },
+      {
+        "title": "逃离抢钱镇",
+        "score": 7.4,
+        "releaseDate": "2024",
+        "duration": "111分钟(中国大陆)",
+        "region": "美国",
+        "directors": [
+          "波茨·庞西罗利"
+        ],
+        "actors": [
+          "希米什·帕特尔 ",
+          " 约瑟夫·高登-莱维特 ",
+          " 莉莉·詹姆斯"
+        ],
+        "votes": 0,
+        "poster": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2924812911.webp",
+        "link": "https://movie.douban.com/subject/35897024/?from=playing_poster",
+        "type": "now_playing"
+      },
+      {
+        "title": "东极岛",
+        "score": 0,
+        "releaseDate": "2025",
+        "duration": "133分钟",
+        "region": "中国大陆",
+        "directors": [
+          "管虎 费振翔"
+        ],
+        "actors": [
+          "朱一龙 ",
+          " 吴磊 ",
+          " 倪妮"
+        ],
+        "votes": 0,
+        "poster": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2922389852.webp",
+        "link": "https://movie.douban.com/subject/26660874/?from=playing_poster",
+        "type": "now_playing"
+      },
+      {
+        "title": "戏台",
+        "score": 8,
+        "releaseDate": "2025",
+        "duration": "117分钟",
+        "region": "中国大陆 中国香港",
+        "directors": [
+          "陈佩斯"
+        ],
+        "actors": [
+          "陈佩斯 ",
+          " 黄渤 ",
+          " 姜武"
+        ],
+        "votes": 0,
+        "poster": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2923749086.webp",
+        "link": "https://movie.douban.com/subject/35483395/?from=playing_poster",
+        "type": "now_playing"
+      },
+      {
+        "title": "死神来了：血脉诅咒",
+        "score": 6.9,
+        "releaseDate": "2025",
+        "duration": "109分钟(中国大陆)",
+        "region": "美国",
+        "directors": [
+          "亚当·B·斯坦 扎克·利波夫斯基"
+        ],
+        "actors": [
+          "凯特琳·桑塔·胡安娜 ",
+          " 特欧·布里奥尼斯 ",
+          " 理查德·哈蒙"
+        ],
+        "votes": 0,
+        "poster": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2924000768.webp",
+        "link": "https://movie.douban.com/subject/30429388/?from=playing_poster",
+        "type": "now_playing"
+      },
+      {
+        "title": "蜗牛回忆录",
+        "score": 8.4,
+        "releaseDate": "2024",
+        "duration": "95分钟",
+        "region": "澳大利亚",
+        "directors": [
+          "亚当·艾略特"
+        ],
+        "actors": [
+          "莎拉·斯努克 ",
+          " 柯蒂·斯密特-麦菲 ",
+          " 杰基·韦佛"
+        ],
+        "votes": 0,
+        "poster": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2924886534.webp",
+        "link": "https://movie.douban.com/subject/36467821/?from=playing_poster",
+        "type": "now_playing"
+      },
+      {
+        "title": "浪浪山小妖怪",
+        "score": 8.5,
+        "releaseDate": "2025",
+        "duration": "118分钟",
+        "region": "中国大陆",
+        "directors": [
+          "於水"
+        ],
+        "actors": [
+          "陈子平 ",
+          " 路扬 ",
+          " 董汶亮"
+        ],
+        "votes": 0,
+        "poster": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2923770138.webp",
+        "link": "https://movie.douban.com/subject/36438475/?from=playing_poster",
+        "type": "now_playing"
+      },
+      {
+        "title": "爱的暂停键",
+        "score": 7.6,
+        "releaseDate": "2024",
+        "duration": "105分钟",
+        "region": "挪威",
+        "directors": [
+          "莉莉娅·英戈尔夫斯多蒂尔"
+        ],
+        "actors": [
+          "赫尔加·古莲 ",
+          " 奥德盖尔·图内 ",
+          " 凯瑞·豪根·西德尼斯"
+        ],
+        "votes": 0,
+        "poster": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2923977957.webp",
+        "link": "https://movie.douban.com/subject/36253688/?from=playing_poster",
+        "type": "now_playing"
+      },
+      {
+        "title": "伊甸",
+        "score": 6.9,
+        "releaseDate": "2024",
+        "duration": "129分钟",
+        "region": "美国",
+        "directors": [
+          "朗·霍华德"
+        ],
+        "actors": [
+          "裘德·洛 ",
+          " 安娜·德·阿玛斯 ",
+          " 凡妮莎·柯比"
+        ],
+        "votes": 0,
+        "poster": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2924041782.webp",
+        "link": "https://movie.douban.com/subject/36139721/?from=playing_poster",
+        "type": "now_playing"
+      },
+      {
+        "title": "南京照相馆",
+        "score": 8.7,
+        "releaseDate": "2025",
+        "duration": "137分钟",
+        "region": "中国大陆",
+        "directors": [
+          "申奥"
+        ],
+        "actors": [
+          "刘昊然 ",
+          " 王传君 ",
+          " 高叶"
+        ],
+        "votes": 0,
+        "poster": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2924276740.webp",
+        "link": "https://movie.douban.com/subject/36809864/?from=playing_poster",
+        "type": "now_playing"
+      },
+      {
+        "title": "奇遇",
+        "score": 7.2,
+        "releaseDate": "2025",
+        "duration": "129分钟",
+        "region": "中国大陆",
+        "directors": [
+          "马多"
+        ],
+        "actors": [
+          "贾冰 ",
+          " 王皓 ",
+          " 李梦"
+        ],
+        "votes": 0,
+        "poster": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2920978322.webp",
+        "link": "https://movie.douban.com/subject/36522427/?from=playing_poster",
+        "type": "now_playing"
+      },
+      {
+        "title": "坏蛋联盟2",
+        "score": 7.6,
+        "releaseDate": "2025",
+        "duration": "104分钟",
+        "region": "美国",
+        "directors": [
+          "皮埃尔·佩里费尔  J·P·桑斯"
+        ],
+        "actors": [
+          "山姆·洛克威尔 ",
+          " 马克·马龙 ",
+          " 奥卡菲娜"
+        ],
+        "votes": 0,
+        "poster": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2923073504.webp",
+        "link": "https://movie.douban.com/subject/36829507/?from=playing_poster",
+        "type": "now_playing"
+      },
+      {
+        "title": "7天",
+        "score": 5.9,
+        "releaseDate": "2025",
+        "duration": "121分钟",
+        "region": "中国大陆",
+        "directors": [
+          "邱玉洁"
+        ],
+        "actors": [
+          "蒋奇明 ",
+          " 张艺凡 ",
+          " 杨皓宇"
+        ],
+        "votes": 0,
+        "poster": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2923769862.webp",
+        "link": "https://movie.douban.com/subject/36208089/?from=playing_poster",
+        "type": "now_playing"
+      },
+      {
+        "title": "小鹿斑比：清算",
+        "score": 4.2,
+        "releaseDate": "2025",
+        "duration": "80分钟",
+        "region": "英国 美国",
+        "directors": [
+          "丹·艾伦"
+        ],
+        "actors": [
+          "罗姗妮·麦琪 ",
+          " 汤姆·穆艾伦 ",
+          " 尼科拉·赖特"
+        ],
+        "votes": 0,
+        "poster": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2924932474.webp",
+        "link": "https://movie.douban.com/subject/36323488/?from=playing_poster",
+        "type": "now_playing"
+      },
+      {
+        "title": "有朵云像你",
+        "score": 6.4,
+        "releaseDate": "2025",
+        "duration": "120分钟",
+        "region": "中国大陆",
+        "directors": [
+          "姚婷婷"
+        ],
+        "actors": [
+          "屈楚萧 ",
+          " 王子文 ",
+          " 王皓"
+        ],
+        "votes": 0,
+        "poster": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2924039202.webp",
+        "link": "https://movie.douban.com/subject/36638072/?from=playing_poster",
+        "type": "now_playing"
+      },
+      {
+        "title": "同甘共苦",
+        "score": 6.9,
+        "releaseDate": "2025",
+        "duration": "101分钟(中国大陆)",
+        "region": "澳大利亚 美国",
+        "directors": [
+          "迈克尔·尚克斯"
+        ],
+        "actors": [
+          "戴夫·弗兰科 ",
+          " 爱丽森·布里 ",
+          " 达蒙·海瑞曼"
+        ],
+        "votes": 0,
+        "poster": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2925052115.webp",
+        "link": "https://movie.douban.com/subject/36772728/?from=playing_poster",
+        "type": "now_playing"
+      },
+      {
+        "title": "营救飞虎",
+        "score": 0,
+        "releaseDate": "2025",
+        "duration": "107分钟",
+        "region": "中国大陆",
+        "directors": [
+          "刘浩良"
+        ],
+        "actors": [
+          "韩庚 ",
+          " 米切尔·霍格 ",
+          " 陈永胜"
+        ],
+        "votes": 0,
+        "poster": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2924397468.webp",
+        "link": "https://movie.douban.com/subject/37109678/?from=playing_poster",
+        "type": "now_playing"
+      },
+      {
+        "title": "家庭简史",
+        "score": 6.2,
+        "releaseDate": "2024",
+        "duration": "99分钟",
+        "region": "中国大陆 丹麦",
+        "directors": [
+          "林见捷"
+        ],
+        "actors": [
+          "祖峰 ",
+          " 郭柯宇 ",
+          " 孙浠伦"
+        ],
+        "votes": 0,
+        "poster": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2924932271.webp",
+        "link": "https://movie.douban.com/subject/34935178/?from=playing_poster",
+        "type": "now_playing"
+      },
+      {
+        "title": "地球脉动：万物有道",
+        "score": 0,
+        "releaseDate": "2025",
+        "duration": "97分钟",
+        "region": "英国",
+        "directors": [
+          "阿比盖尔·利斯"
+        ],
+        "actors": [
+          "拉塞尔·博尔特"
+        ],
+        "votes": 0,
+        "poster": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2924932683.webp",
+        "link": "https://movie.douban.com/subject/37502490/?from=playing_poster",
+        "type": "now_playing"
+      },
+      {
+        "title": "脱缰者也",
+        "score": 5.7,
+        "releaseDate": "2025",
+        "duration": "122分钟",
+        "region": "中国大陆",
+        "directors": [
+          "曹保平"
+        ],
+        "actors": [
+          "郭麒麟 ",
+          " 齐溪 ",
+          " 孙安可"
+        ],
+        "votes": 0,
+        "poster": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2923975215.webp",
+        "link": "https://movie.douban.com/subject/36453173/?from=playing_poster",
+        "type": "now_playing"
+      },
+      {
+        "title": "青蛇",
+        "score": 8.6,
+        "releaseDate": "1993",
+        "duration": "99分钟",
+        "region": "中国香港 中国大陆",
+        "directors": [
+          "徐克"
+        ],
+        "actors": [
+          "张曼玉 ",
+          " 王祖贤 ",
+          " 赵文卓"
+        ],
+        "votes": 0,
+        "poster": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2923862788.webp",
+        "link": "https://movie.douban.com/subject/1303394/?from=playing_poster",
+        "type": "now_playing"
+      },
+      {
+        "title": "F1：狂飙飞车",
+        "score": 8.7,
+        "releaseDate": "2025",
+        "duration": "156分钟",
+        "region": "美国",
+        "directors": [
+          "约瑟夫·科辛斯基"
+        ],
+        "actors": [
+          "布拉德·皮特 ",
+          " 戴姆森·伊德瑞斯 ",
+          " 哈维尔·巴登"
+        ],
+        "votes": 0,
+        "poster": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2922238175.webp",
+        "link": "https://movie.douban.com/subject/35689244/?from=playing_poster",
+        "type": "now_playing"
+      },
+      {
+        "title": "洛桑的家事",
+        "score": 0,
+        "releaseDate": "2022",
+        "duration": "94分钟",
+        "region": "中国大陆",
+        "directors": [
+          "张国栋"
+        ],
+        "actors": [
+          "金巴 ",
+          " 扎西 ",
+          " 加华草"
+        ],
+        "votes": 0,
+        "poster": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2924927925.webp",
+        "link": "https://movie.douban.com/subject/30302348/?from=playing_poster",
+        "type": "now_playing"
+      },
+      {
+        "title": "生还",
+        "score": 0,
+        "releaseDate": "2025",
+        "duration": "107分钟",
+        "region": "中国大陆",
+        "directors": [
+          "高群书 肖一凡"
+        ],
+        "actors": [
+          "邵正一 ",
+          " 周思羽 ",
+          " 周云鹏"
+        ],
+        "votes": 0,
+        "poster": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2924321170.webp",
+        "link": "https://movie.douban.com/subject/37296895/?from=playing_poster",
+        "type": "now_playing"
+      },
+      {
+        "title": "红丝绸",
+        "score": 0,
+        "releaseDate": "2025",
+        "duration": "146分钟",
+        "region": "俄罗斯 中国大陆",
+        "directors": [
+          "安德烈·沃金"
+        ],
+        "actors": [
+          "米洛斯·比柯维奇 ",
+          " 叶莲娜·波德卡明斯卡娅 ",
+          " 格列布·卡柳日尼"
+        ],
+        "votes": 0,
+        "poster": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2924397759.webp",
+        "link": "https://movie.douban.com/subject/36926995/?from=playing_poster",
+        "type": "now_playing"
+      },
+      {
+        "title": "长安的荔枝",
+        "score": 7.6,
+        "releaseDate": "2025",
+        "duration": "122分钟",
+        "region": "中国大陆",
+        "directors": [
+          "大鹏"
+        ],
+        "actors": [
+          "大鹏 ",
+          " 白客 ",
+          " 庄达菲"
+        ],
+        "votes": 0,
+        "poster": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2923330987.webp",
+        "link": "https://movie.douban.com/subject/36185502/?from=playing_poster",
+        "type": "now_playing"
+      },
+      {
+        "title": "玛丽和麦克斯",
+        "score": 9,
+        "releaseDate": "2009",
+        "duration": "90分钟(中国大陆)",
+        "region": "澳大利亚 美国",
+        "directors": [
+          "亚当·艾略特"
+        ],
+        "actors": [
+          "托妮·科莱特 ",
+          " 菲利普·塞默·霍夫曼 ",
+          " 巴瑞·哈姆弗莱斯"
+        ],
+        "votes": 0,
+        "poster": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2923412445.webp",
+        "link": "https://movie.douban.com/subject/3072124/?from=playing_poster",
+        "type": "now_playing"
+      },
+      {
+        "title": "赎梦",
+        "score": 5.9,
+        "releaseDate": "2024",
+        "duration": "95分钟(中国大陆)",
+        "region": "中国香港",
+        "directors": [
+          "张家辉"
+        ],
+        "actors": [
+          "张家辉 ",
+          " 刘俊谦 ",
+          " 陈法拉"
+        ],
+        "votes": 0,
+        "poster": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2924250338.webp",
+        "link": "https://movie.douban.com/subject/35480795/?from=playing_poster",
+        "type": "now_playing"
+      },
+      {
+        "title": "午夜怪谈2",
+        "score": 0,
+        "releaseDate": "2025",
+        "duration": "90分钟",
+        "region": "中国大陆",
+        "directors": [
+          "朱迅 "
+        ],
+        "actors": [
+          "熊婧文 ",
+          " 韩陌 ",
+          " 姚致远"
+        ],
+        "votes": 0,
+        "poster": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2925034131.webp",
+        "link": "https://movie.douban.com/subject/37434327/?from=playing_poster",
+        "type": "now_playing"
+      },
+      {
+        "title": "罗小黑战记2",
+        "score": 8.7,
+        "releaseDate": "2025",
+        "duration": "119分钟",
+        "region": "中国大陆",
+        "directors": [
+          "木头 顾杰"
+        ],
+        "actors": [
+          "山新 ",
+          " 刘明月 ",
+          " 朱婧"
+        ],
+        "votes": 0,
+        "poster": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2923537864.webp",
+        "link": "https://movie.douban.com/subject/36448279/?from=playing_poster",
+        "type": "now_playing"
+      },
+      {
+        "title": "坪石先生",
+        "score": 0,
+        "releaseDate": "2025",
+        "duration": "124分钟",
+        "region": "中国大陆",
+        "directors": [
+          "甘小二"
+        ],
+        "actors": [
+          "谢君豪 ",
+          " 颜秋越 ",
+          " 王宏伟"
+        ],
+        "votes": 0,
+        "poster": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2923810598.webp",
+        "link": "https://movie.douban.com/subject/36738997/?from=playing_poster",
+        "type": "now_playing"
+      },
+      {
+        "title": "天大的事",
+        "score": 0,
+        "releaseDate": "2025",
+        "duration": "100分钟",
+        "region": "中国大陆",
+        "directors": [
+          "吴双 黄笑江"
+        ],
+        "actors": [
+          "邵峰 ",
+          " 刘惠 ",
+          " 韩三明"
+        ],
+        "votes": 0,
+        "poster": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2925290961.webp",
+        "link": "https://movie.douban.com/subject/37530034/?from=playing_poster",
+        "type": "now_playing"
+      },
+      {
+        "title": "聊斋：兰若寺",
+        "score": 6.7,
+        "releaseDate": "2025",
+        "duration": "152分钟",
+        "region": "中国大陆",
+        "directors": [
+          "崔月梅 刘源 谢君伟 邹靖 黄鹤宇 刘一林"
+        ],
+        "actors": [
+          "卢力峰 ",
+          " 林强 ",
+          " 张赫"
+        ],
+        "votes": 0,
+        "poster": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2923191863.webp",
+        "link": "https://movie.douban.com/subject/36289419/?from=playing_poster",
+        "type": "now_playing"
+      },
+      {
+        "title": "熊孩子·探险熊兵",
+        "score": 0,
+        "releaseDate": "2025",
+        "duration": "80分钟",
+        "region": "中国大陆",
+        "directors": [
+          "庄潇"
+        ],
+        "actors": [],
+        "votes": 0,
+        "poster": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2924641501.webp",
+        "link": "https://movie.douban.com/subject/36319998/?from=playing_poster",
+        "type": "now_playing"
+      },
+      {
+        "title": "夏雨来",
+        "score": 0,
+        "releaseDate": "2025",
+        "duration": "108分钟",
+        "region": "中国大陆",
+        "directors": [
+          "杨清希"
+        ],
+        "actors": [
+          "赵曙光 ",
+          " 方展荣 ",
+          " 张集骏"
+        ],
+        "votes": 0,
+        "poster": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2923770277.webp",
+        "link": "https://movie.douban.com/subject/36135242/?from=playing_poster",
+        "type": "now_playing"
+      },
+      {
+        "title": "午夜凶镜",
+        "score": 0,
+        "releaseDate": "2025",
+        "duration": "85分钟",
+        "region": "中国大陆",
+        "directors": [
+          "陆诗雷"
+        ],
+        "actors": [
+          "黄兴饶 ",
+          " 殷果儿 ",
+          " 张星阑"
+        ],
+        "votes": 0,
+        "poster": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2924431235.webp",
+        "link": "https://movie.douban.com/subject/37247629/?from=playing_poster",
+        "type": "now_playing"
+      },
+      {
+        "title": "无名",
+        "score": 6.6,
+        "releaseDate": "2023",
+        "duration": "128分钟",
+        "region": "中国大陆",
+        "directors": [
+          "程耳"
+        ],
+        "actors": [
+          "梁朝伟 ",
+          " 王一博 ",
+          " 周迅"
+        ],
+        "votes": 0,
+        "poster": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2923651715.webp",
+        "link": "https://movie.douban.com/subject/35372742/?from=playing_poster",
+        "type": "now_playing"
+      },
+      {
+        "title": "新龙门客栈",
+        "score": 8.7,
+        "releaseDate": "1992",
+        "duration": "103分钟",
+        "region": "中国香港 中国大陆",
+        "directors": [
+          "李惠民"
+        ],
+        "actors": [
+          "张曼玉 ",
+          " 林青霞 ",
+          " 梁家辉"
+        ],
+        "votes": 0,
+        "poster": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p1421018669.webp",
+        "link": "https://movie.douban.com/subject/1292287/?from=playing_poster",
+        "type": "now_playing"
+      },
+      {
+        "title": "德州巴黎",
+        "score": 8.4,
+        "releaseDate": "1984",
+        "duration": "145分钟",
+        "region": "西德 法国 英国 美国",
+        "directors": [
+          "维姆·文德斯"
+        ],
+        "actors": [
+          "哈利·迪恩·斯坦顿 ",
+          " 萨姆·贝瑞 ",
+          " 伯恩哈德·维基"
+        ],
+        "votes": 0,
+        "poster": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2237305324.webp",
+        "link": "https://movie.douban.com/subject/1302061/?from=playing_poster",
+        "type": "now_playing"
+      },
+      {
+        "title": "白丝带",
+        "score": 8.2,
+        "releaseDate": "2009",
+        "duration": "144分钟",
+        "region": "德国 奥地利 法国 意大利",
+        "directors": [
+          "迈克尔·哈内克"
+        ],
+        "actors": [
+          "克里斯蒂安·富里道尔 ",
+          " 恩斯特·雅各比 ",
+          " 莉奥妮·贝尼希"
+        ],
+        "votes": 0,
+        "poster": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2196608840.webp",
+        "link": "https://movie.douban.com/subject/2464346/?from=playing_poster",
+        "type": "now_playing"
+      },
+      {
+        "title": "玩乐时间",
+        "score": 8.8,
+        "releaseDate": "1967",
+        "duration": "155分钟",
+        "region": "法国 意大利",
+        "directors": [
+          "雅克·塔蒂"
+        ],
+        "actors": [
+          "雅克·塔蒂 ",
+          " 芭芭拉·丹内克 ",
+          " 丽塔·麦登"
+        ],
+        "votes": 0,
+        "poster": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2192795338.webp",
+        "link": "https://movie.douban.com/subject/1303543/?from=playing_poster",
+        "type": "now_playing"
+      },
+      {
+        "title": "猫和老鼠：星盘奇缘",
+        "score": 5.1,
+        "releaseDate": "2025",
+        "duration": "104分钟",
+        "region": "中国大陆 美国",
+        "directors": [
+          "张钢"
+        ],
+        "actors": [
+          "王保顺 ",
+          " 姜文 ",
+          " 龙岚"
+        ],
+        "votes": 0,
+        "poster": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2923818057.webp",
+        "link": "https://movie.douban.com/subject/37263706/?from=playing_poster",
+        "type": "now_playing"
+      },
+      {
+        "title": "蓝白红三部曲之蓝",
+        "score": 8.5,
+        "releaseDate": "1993",
+        "duration": "98分钟",
+        "region": "法国 波兰 瑞士",
+        "directors": [
+          "克日什托夫·基耶斯洛夫斯基"
+        ],
+        "actors": [
+          "朱丽叶·比诺什 ",
+          " 贝努特·里格恩特 ",
+          " 弗罗伦斯·派梅尔"
+        ],
+        "votes": 0,
+        "poster": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p1978408096.webp",
+        "link": "https://movie.douban.com/subject/1292048/?from=playing_poster",
+        "type": "now_playing"
+      },
+      {
+        "title": "中央车站",
+        "score": 8.7,
+        "releaseDate": "1998",
+        "duration": "110分钟",
+        "region": "巴西 法国",
+        "directors": [
+          "沃尔特·塞勒斯"
+        ],
+        "actors": [
+          "费尔南达·蒙特内格罗 ",
+          " 文尼西斯·狄·奥利维拉 ",
+          " 马里利娅·佩拉"
+        ],
+        "votes": 0,
+        "poster": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2239441575.webp",
+        "link": "https://movie.douban.com/subject/1292218/?from=playing_poster",
+        "type": "now_playing"
+      },
+      {
+        "title": "零卡社团",
+        "score": 5.7,
+        "releaseDate": "2023",
+        "duration": "110分钟",
+        "region": "奥地利 英国 德国 法国 丹麦 卡塔尔",
+        "directors": [
+          "杰茜卡·豪斯纳"
+        ],
+        "actors": [
+          "米娅·华希科沃斯卡 ",
+          " 西瑟·巴比特·科努德森 ",
+          " 埃米尔·艾尔-马斯里"
+        ],
+        "votes": 0,
+        "poster": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2895978453.webp",
+        "link": "https://movie.douban.com/subject/34913717/?from=playing_poster",
+        "type": "now_playing"
+      },
+      {
+        "title": "喜羊羊与灰太狼之异国破晓",
+        "score": 6.6,
+        "releaseDate": "2025",
+        "duration": "96分钟",
+        "region": "中国大陆",
+        "directors": [
+          "陈辉衍 梁嘉琪"
+        ],
+        "actors": [],
+        "votes": 0,
+        "poster": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2923045688.webp",
+        "link": "https://movie.douban.com/subject/37337369/?from=playing_poster",
+        "type": "now_playing"
+      },
+      {
+        "title": "神女",
+        "score": 9.1,
+        "releaseDate": "1934",
+        "duration": "76分钟",
+        "region": "中国大陆",
+        "directors": [
+          "吴永刚"
+        ],
+        "actors": [
+          "阮玲玉 ",
+          " 黎铿 ",
+          " 章志直"
+        ],
+        "votes": 0,
+        "poster": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2028929312.webp",
+        "link": "https://movie.douban.com/subject/1302210/?from=playing_poster",
+        "type": "now_playing"
+      },
+      {
+        "title": "别把作文当回事儿",
+        "score": 0,
+        "releaseDate": "2024",
+        "duration": "89分钟",
+        "region": "中国大陆",
+        "directors": [
+          "马兰花"
+        ],
+        "actors": [
+          "王谢嫣然 ",
+          " 李宗航 ",
+          " 张熙悦"
+        ],
+        "votes": 0,
+        "poster": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2912818847.webp",
+        "link": "https://movie.douban.com/subject/36828739/?from=playing_poster",
+        "type": "now_playing"
+      },
+      {
+        "title": "长空之王",
+        "score": 6.5,
+        "releaseDate": "2023",
+        "duration": "127分钟",
+        "region": "中国大陆",
+        "directors": [
+          "刘晓世"
+        ],
+        "actors": [
+          "王一博 ",
+          " 胡军 ",
+          " 周冬雨"
+        ],
+        "votes": 0,
+        "poster": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2924485636.webp",
+        "link": "https://movie.douban.com/subject/35209731/?from=playing_poster",
+        "type": "now_playing"
+      },
+      {
+        "title": "双姝奇缘",
+        "score": 8.7,
+        "releaseDate": "1987",
+        "duration": "99分钟",
+        "region": "法国",
+        "directors": [
+          "埃里克·侯麦"
+        ],
+        "actors": [
+          "若埃勒·米凯尔 ",
+          " 杰西卡·福德 ",
+          " 菲利普·劳登巴赫"
+        ],
+        "votes": 0,
+        "poster": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p1602411185.webp",
+        "link": "https://movie.douban.com/subject/1421309/?from=playing_poster",
+        "type": "now_playing"
+      },
+      {
+        "title": "吉普赛女王",
+        "score": 7.6,
+        "releaseDate": "1976",
+        "duration": "101 分钟",
+        "region": "苏联",
+        "directors": [
+          "Emil Loteanu"
+        ],
+        "actors": [
+          "格利高列·彼得鲁·格利高里乌 ",
+          " 斯维特拉娜·图玛 ",
+          " Barasbi Mulayev"
+        ],
+        "votes": 0,
+        "poster": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2206244591.webp",
+        "link": "https://movie.douban.com/subject/2295408/?from=playing_poster",
+        "type": "now_playing"
+      },
+      {
+        "title": "蜡笔小新：大人王国的反击",
+        "score": 9,
+        "releaseDate": "2001",
+        "duration": "90分钟",
+        "region": "日本",
+        "directors": [
+          "原惠一"
+        ],
+        "actors": [
+          "矢岛晶子 ",
+          " 楢桥美纪 ",
+          " 藤原启治"
+        ],
+        "votes": 0,
+        "poster": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2922328832.webp",
+        "link": "https://movie.douban.com/subject/1958667/?from=playing_poster",
+        "type": "now_playing"
+      },
+      {
+        "title": "人生一世",
+        "score": 8,
+        "releaseDate": "2023",
+        "duration": "115分钟",
+        "region": "奥地利 德国",
+        "directors": [
+          "汉斯·斯特恩比奇"
+        ],
+        "actors": [
+          "Stefan Gorski ",
+          " 奥古斯特·席纳 ",
+          " Ivan Gustafik"
+        ],
+        "votes": 0,
+        "poster": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2897481044.webp",
+        "link": "https://movie.douban.com/subject/35634052/?from=playing_poster",
+        "type": "now_playing"
+      },
+      {
+        "title": "红色沙漠",
+        "score": 7.9,
+        "releaseDate": "1964",
+        "duration": "117分钟",
+        "region": "意大利 法国",
+        "directors": [
+          "米开朗基罗·安东尼奥尼"
+        ],
+        "actors": [
+          "莫妮卡·维蒂 ",
+          " 理查德·哈里斯 ",
+          " 卡洛·基奥内蒂"
+        ],
+        "votes": 0,
+        "poster": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2248487533.webp",
+        "link": "https://movie.douban.com/subject/1299261/?from=playing_poster",
+        "type": "now_playing"
+      },
+      {
+        "title": "魔法鼠乐园：神秘魔法球",
+        "score": 0,
+        "releaseDate": "2025",
+        "duration": "86分钟",
+        "region": "中国大陆",
+        "directors": [],
+        "actors": [],
+        "votes": 0,
+        "poster": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2924185528.webp",
+        "link": "https://movie.douban.com/subject/36075487/?from=playing_poster",
+        "type": "now_playing"
+      },
+      {
+        "title": "小鸽子的家",
+        "score": 0,
+        "releaseDate": "2025",
+        "duration": "94分钟",
+        "region": "中国大陆",
+        "directors": [
+          "吴佳"
+        ],
+        "actors": [
+          "刘煜凯 ",
+          " 刘凯圳 ",
+          " 王宜华"
+        ],
+        "votes": 0,
+        "poster": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2923769527.webp",
+        "link": "https://movie.douban.com/subject/37454362/?from=playing_poster",
+        "type": "now_playing"
+      },
+      {
+        "title": "巴赫曼：沙漠之旅",
+        "score": 7,
+        "releaseDate": "2023",
+        "duration": "110分钟",
+        "region": "奥地利 卢森堡 瑞士 德国",
+        "directors": [
+          "玛加蕾特·冯·特罗塔"
+        ],
+        "actors": [
+          "薇姬·克里普斯 ",
+          " 罗纳尔德·策尔费尔德 ",
+          " 巴兹尔·伊登贝茨"
+        ],
+        "votes": 0,
+        "poster": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2887841195.webp",
+        "link": "https://movie.douban.com/subject/35496300/?from=playing_poster",
+        "type": "now_playing"
+      },
+      {
+        "title": "音乐之光",
+        "score": 6.8,
+        "releaseDate": "2017",
+        "duration": "97分钟",
+        "region": "奥地利 德国",
+        "directors": [
+          "芭芭拉·阿尔伯特"
+        ],
+        "actors": [
+          "玛丽亚·德拉格斯 ",
+          " 大卫·史崔梭德 ",
+          " 卢卡斯·米科"
+        ],
+        "votes": 0,
+        "poster": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2499575122.webp",
+        "link": "https://movie.douban.com/subject/26760445/?from=playing_poster",
+        "type": "now_playing"
+      },
+      {
+        "title": "雪上飞鹰",
+        "score": 6.3,
+        "releaseDate": "2021",
+        "duration": "100分钟",
+        "region": "奥地利",
+        "directors": [
+          "安德烈亚斯·施密德"
+        ],
+        "actors": [
+          "Julian Waldner ",
+          " Valerie Huber ",
+          " Wolfgang Oliver"
+        ],
+        "votes": 0,
+        "poster": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2891751463.webp",
+        "link": "https://movie.douban.com/subject/35507456/?from=playing_poster",
+        "type": "now_playing"
+      }
+    ],
+    "weeklyRanking": [
+      {
+        "title": "凶器 / 武器",
+        "score": 6.9,
+        "votes": 25169,
+        "poster": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2921019240.webp",
+        "link": "https://movie.douban.com/subject/36221247/",
+        "description": "2025-08-07(澳大利亚) / 2025-08-08(美国) / 朱莉娅·加纳 / 乔什·布洛林 / 王汉斌 / 阿尔登·埃伦瑞奇 / 奥斯汀·艾布拉姆斯 / 卡里·克里斯托弗 / 埃米·马迪根 / 托比·哈斯 / 克莱顿·法里斯 / 琼·黛安·拉斐尔 / 美国 / 扎克·克雷格 / 128分钟...",
+        "type": "weekly_ranking"
+      },
+      {
+        "title": "小人物2 / 杀神Nobody2(港) / 无名弑2(台)",
+        "score": 6.3,
+        "votes": 12583,
+        "poster": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2921502283.webp",
+        "link": "https://movie.douban.com/subject/36176467/",
+        "description": "2025-08-14(中国香港) / 2025-08-15(美国) / 鲍勃·奥登科克 / 康妮·尼尔森 / 克里斯托弗·洛伊德 / 约翰·奥提兹 / 罗伯特·菲茨杰拉德·迪格斯 / 莎朗·斯通 / 科林·汉克斯 / 盖奇·芒罗 / 佩斯利·卡多拉思 / 科林·萨尔蒙 / 美国 / 加拿大 /...",
+        "type": "weekly_ranking"
+      },
+      {
+        "title": "同甘共苦 / 永远在一起(台) / 长相黐守(港)",
+        "score": 6.9,
+        "votes": 23478,
+        "poster": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2925052115.webp",
+        "link": "https://movie.douban.com/subject/36772728/",
+        "description": "2025-01-26(圣丹斯电影节) / 2025-07-30(美国) / 2025(中国大陆) / 戴夫·弗兰科 / 爱丽森·布里 / 达蒙·海瑞曼 / 米娅·莫里西 / 卡尔·里奇蒙德 / 杰克·肯尼 / 弗朗塞斯卡·沃特斯 / 阿尔金·阿贝拉 / 萨拉·朗 / 罗伯·布朗 / 澳大利亚 / 美国 /...",
+        "type": "weekly_ranking"
+      },
+      {
+        "title": "陌生号码：高中短信诈骗疑云",
+        "score": 7,
+        "votes": 4682,
+        "poster": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2925007948.webp",
+        "link": "https://movie.douban.com/subject/37449081/",
+        "description": "2025-08-29(美国网络) / 美国 / 斯盖·伯格曼 / 94分钟 / 陌生号码：高中短信诈骗疑云 / 犯罪 / 纪录片 / 英语",
+        "type": "weekly_ranking"
+      },
+      {
+        "title": "招魂4：终章 / 招魂4 / 招魂：终章",
+        "score": 6.5,
+        "votes": 2309,
+        "poster": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2923876913.webp",
+        "link": "https://movie.douban.com/subject/36131988/",
+        "description": "2025-09-03(菲律宾) / 2025-09-05(美国) / 帕特里克·威尔森 / 维拉·法米加 / 米娅·汤姆林森 / 本·哈迪 / 斯蒂芬·考特尔 / 蕾贝卡·卡尔德 / 艾略特·科万 / 碧悠·加德斯顿 / 基拉·洛德·卡西迪 / 约翰·布罗特顿 / 英国 / 美国 / 迈克尔·查维斯...",
+        "type": "weekly_ranking"
+      },
+      {
+        "title": "初吻 / 跨越时空的初吻(台) / 穿越时空の初吻",
+        "score": 8.5,
+        "votes": 20418,
+        "poster": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2915797811.webp",
+        "link": "https://movie.douban.com/subject/36894170/",
+        "description": "2025-02-07(日本) / 2025(中国大陆) / 松隆子 / 松村北斗 / 吉冈里帆 / 森七菜 / 中川雅也 / 江原由希子 / 竹原和生 / 松田大辅 / 和田雅成 / 铃木庆一 / 日本 / 冢原亚由子 / 124分钟 / 初吻 / 爱情 / 奇幻 / 坂元裕二 Yûji Sakamoto / 日语",
+        "type": "weekly_ranking"
+      },
+      {
+        "title": "周四推理俱乐部 / 周四谋杀俱乐部",
+        "score": 6.8,
+        "votes": 11133,
+        "poster": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2924757357.webp",
+        "link": "https://movie.douban.com/subject/36767890/",
+        "description": "2025-08-28(美国网络) / 海伦·米伦 / 皮尔斯·布鲁斯南 / 本·金斯利 / 西莉亚·伊姆里 / 娜奥米·阿基 / 丹尼尔·梅斯 / 亨利·劳埃德-休斯 / 汤姆·艾利斯 / 乔纳森·普雷斯 / 大卫·田纳特 / 美国 / 克里斯·哥伦布 / 118分钟 / 周四推理俱乐部...",
+        "type": "weekly_ranking"
+      },
+      {
+        "title": "恶意 / 真相 / 恶女",
+        "score": 6.2,
+        "votes": 62824,
+        "poster": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2922209114.webp",
+        "link": "https://movie.douban.com/subject/36809947/",
+        "description": "2025-07-05(中国大陆) / 张小斐 / 梅婷 / 陈雨锶 / 杨恩又 / 黄轩 / 李庚希 / 张子贤 / 李晓川 / 陈创 / 艾丽娅 / 中国大陆 / 来牧宽 / 姚文逸 / 2025-06-27 20:40 / 100分钟 / 剧情 / 悬疑 / 陈思诚 Sicheng Chen / 张臻 Zhen Zhang / 李翔星 / 汉语普通话",
+        "type": "weekly_ranking"
+      },
+      {
+        "title": "白头神探：智斗灭世狂人 / 新白头神探 / 脱线神探(台)",
+        "score": 5.9,
+        "votes": 5793,
+        "poster": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2920073960.webp",
+        "link": "https://movie.douban.com/subject/25792787/",
+        "description": "2025-08-01(美国) / 连姆·尼森 / 帕米拉·安德森 / 保罗·沃尔特·豪泽 / 丹尼·赫斯顿 / 希·庞德 / 凯文·杜兰 / 莱莎·寇希 / 埃迪·于 / 迈克尔·比斯利 / 摩西·琼斯 / 美国 / 加拿大 / 阿吉瓦·沙弗尔 / 85分钟 / 白头神探：智斗灭世狂人 /...",
+        "type": "weekly_ranking"
+      },
+      {
+        "title": "鬼灭之刃 剧场版 无限城篇 第一章 猗窝座再来 / 鬼灭之刃 无限城篇 第一章 猗窝座再袭 / Demon Slayer: Kimetsu no Yaiba Infinity Ca",
+        "score": 8.8,
+        "votes": 20502,
+        "poster": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2923748005.webp",
+        "link": "https://movie.douban.com/subject/36524559/",
+        "description": "2025-07-18(日本) / 花江夏树 / 鬼头明里 / 下野纮 / 松冈祯丞 / 上田丽奈 / 冈本信彦 / 樱井孝宏 / 小西克幸 / 河西健吾 / 早见沙织 / 日本 / 美国 / 近藤光 / 外崎春雄 / 155分钟 / 鬼灭之刃 剧场版 无限城篇 第一章 猗窝座再来 / 动作 / 动画...",
+        "type": "weekly_ranking"
+      }
+    ],
+    "top250": [
+      {
+        "rank": 1,
+        "title": "肖申克的救赎",
+        "score": 9.7,
+        "votes": 0,
+        "poster": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p480747492.webp",
+        "link": "https://movie.douban.com/subject/1292052/",
+        "quote": "",
+        "type": "top_250"
+      },
+      {
+        "rank": 2,
+        "title": "霸王别姬",
+        "score": 9.6,
+        "votes": 0,
+        "poster": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2561716440.webp",
+        "link": "https://movie.douban.com/subject/1291546/",
+        "quote": "",
+        "type": "top_250"
+      },
+      {
+        "rank": 3,
+        "title": "泰坦尼克号",
+        "score": 9.5,
+        "votes": 0,
+        "poster": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p457760035.webp",
+        "link": "https://movie.douban.com/subject/1292722/",
+        "quote": "",
+        "type": "top_250"
+      },
+      {
+        "rank": 4,
+        "title": "阿甘正传",
+        "score": 9.5,
+        "votes": 0,
+        "poster": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2372307693.webp",
+        "link": "https://movie.douban.com/subject/1292720/",
+        "quote": "",
+        "type": "top_250"
+      },
+      {
+        "rank": 5,
+        "title": "千与千寻",
+        "score": 9.4,
+        "votes": 0,
+        "poster": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2557573348.webp",
+        "link": "https://movie.douban.com/subject/1291561/",
+        "quote": "",
+        "type": "top_250"
+      },
+      {
+        "rank": 6,
+        "title": "美丽人生",
+        "score": 9.5,
+        "votes": 0,
+        "poster": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2578474613.webp",
+        "link": "https://movie.douban.com/subject/1292063/",
+        "quote": "",
+        "type": "top_250"
+      },
+      {
+        "rank": 7,
+        "title": "这个杀手不太冷",
+        "score": 9.4,
+        "votes": 0,
+        "poster": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2913554676.webp",
+        "link": "https://movie.douban.com/subject/1295644/",
+        "quote": "",
+        "type": "top_250"
+      },
+      {
+        "rank": 8,
+        "title": "星际穿越",
+        "score": 9.4,
+        "votes": 0,
+        "poster": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2614988097.webp",
+        "link": "https://movie.douban.com/subject/1889243/",
+        "quote": "",
+        "type": "top_250"
+      },
+      {
+        "rank": 9,
+        "title": "盗梦空间",
+        "score": 9.4,
+        "votes": 0,
+        "poster": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p513344864.webp",
+        "link": "https://movie.douban.com/subject/3541415/",
+        "quote": "",
+        "type": "top_250"
+      },
+      {
+        "rank": 10,
+        "title": "楚门的世界",
+        "score": 9.4,
+        "votes": 0,
+        "poster": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p479682972.webp",
+        "link": "https://movie.douban.com/subject/1292064/",
+        "quote": "",
+        "type": "top_250"
+      },
+      {
+        "rank": 11,
+        "title": "辛德勒的名单",
+        "score": 9.5,
+        "votes": 0,
+        "poster": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p492406163.webp",
+        "link": "https://movie.douban.com/subject/1295124/",
+        "quote": "",
+        "type": "top_250"
+      },
+      {
+        "rank": 12,
+        "title": "忠犬八公的故事",
+        "score": 9.4,
+        "votes": 0,
+        "poster": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2587099240.webp",
+        "link": "https://movie.douban.com/subject/3011091/",
+        "quote": "",
+        "type": "top_250"
+      },
+      {
+        "rank": 13,
+        "title": "海上钢琴师",
+        "score": 9.3,
+        "votes": 0,
+        "poster": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2914698334.webp",
+        "link": "https://movie.douban.com/subject/1292001/",
+        "quote": "",
+        "type": "top_250"
+      },
+      {
+        "rank": 14,
+        "title": "疯狂动物城",
+        "score": 9.2,
+        "votes": 0,
+        "poster": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2923817996.webp",
+        "link": "https://movie.douban.com/subject/25662329/",
+        "quote": "",
+        "type": "top_250"
+      },
+      {
+        "rank": 15,
+        "title": "三傻大闹宝莱坞",
+        "score": 9.2,
+        "votes": 0,
+        "poster": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p579729551.webp",
+        "link": "https://movie.douban.com/subject/3793023/",
+        "quote": "",
+        "type": "top_250"
+      },
+      {
+        "rank": 16,
+        "title": "放牛班的春天",
+        "score": 9.3,
+        "votes": 0,
+        "poster": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2884280708.webp",
+        "link": "https://movie.douban.com/subject/1291549/",
+        "quote": "",
+        "type": "top_250"
+      },
+      {
+        "rank": 17,
+        "title": "机器人总动员",
+        "score": 9.3,
+        "votes": 0,
+        "poster": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p1461851991.webp",
+        "link": "https://movie.douban.com/subject/2131459/",
+        "quote": "",
+        "type": "top_250"
+      },
+      {
+        "rank": 18,
+        "title": "无间道",
+        "score": 9.3,
+        "votes": 0,
+        "poster": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2564556863.webp",
+        "link": "https://movie.douban.com/subject/1307914/",
+        "quote": "",
+        "type": "top_250"
+      },
+      {
+        "rank": 19,
+        "title": "控方证人",
+        "score": 9.6,
+        "votes": 0,
+        "poster": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p1963057234.webp",
+        "link": "https://movie.douban.com/subject/1296141/",
+        "quote": "",
+        "type": "top_250"
+      },
+      {
+        "rank": 20,
+        "title": "大话西游之大圣娶亲",
+        "score": 9.2,
+        "votes": 0,
+        "poster": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2455050536.webp",
+        "link": "https://movie.douban.com/subject/1292213/",
+        "quote": "",
+        "type": "top_250"
+      },
+      {
+        "rank": 21,
+        "title": "熔炉",
+        "score": 9.3,
+        "votes": 0,
+        "poster": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p1363250216.webp",
+        "link": "https://movie.douban.com/subject/5912992/",
+        "quote": "",
+        "type": "top_250"
+      },
+      {
+        "rank": 22,
+        "title": "触不可及",
+        "score": 9.3,
+        "votes": 0,
+        "poster": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p1454261925.webp",
+        "link": "https://movie.douban.com/subject/6786002/",
+        "quote": "",
+        "type": "top_250"
+      },
+      {
+        "rank": 23,
+        "title": "寻梦环游记",
+        "score": 9.1,
+        "votes": 0,
+        "poster": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2505426431.webp",
+        "link": "https://movie.douban.com/subject/20495023/",
+        "quote": "",
+        "type": "top_250"
+      },
+      {
+        "rank": 24,
+        "title": "教父",
+        "score": 9.3,
+        "votes": 0,
+        "poster": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p616779645.webp",
+        "link": "https://movie.douban.com/subject/1291841/",
+        "quote": "",
+        "type": "top_250"
+      },
+      {
+        "rank": 25,
+        "title": "当幸福来敲门",
+        "score": 9.1,
+        "votes": 0,
+        "poster": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p1312700628.webp",
+        "link": "https://movie.douban.com/subject/1849031/",
+        "quote": "",
+        "type": "top_250"
+      }
+    ],
+    "newMovies": [
+      {
+        "title": "731",
+        "score": null,
+        "poster": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2923955351.webp",
+        "link": "https://movie.douban.com/subject/27605659/?from=showing",
+        "type": "new_movies"
+      },
+      {
+        "title": "窗外是蓝星",
+        "score": 8.6,
+        "poster": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2924758250.webp",
+        "link": "https://movie.douban.com/subject/37007685/?from=showing",
+        "type": "new_movies"
+      },
+      {
+        "title": "轻于鸿毛",
+        "score": 6.4,
+        "poster": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2924927926.webp",
+        "link": "https://movie.douban.com/subject/36782374/?from=showing",
+        "type": "new_movies"
+      },
+      {
+        "title": "捕风追影",
+        "score": 8.2,
+        "poster": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2924069675.webp",
+        "link": "https://movie.douban.com/subject/36600459/?from=showing",
+        "type": "new_movies"
+      },
+      {
+        "title": "关于约会的一切 Follemente",
+        "score": 8.1,
+        "poster": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2924636647.webp",
+        "link": "https://movie.douban.com/subject/37067150/?from=showing",
+        "type": "new_movies"
+      },
+      {
+        "title": "逃离抢钱镇 Greedy People",
+        "score": 7.4,
+        "poster": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2924812911.webp",
+        "link": "https://movie.douban.com/subject/35897024/?from=showing",
+        "type": "new_movies"
+      },
+      {
+        "title": "东极岛",
+        "score": null,
+        "poster": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2922389852.webp",
+        "link": "https://movie.douban.com/subject/26660874/?from=showing",
+        "type": "new_movies"
+      },
+      {
+        "title": "戏台",
+        "score": 8,
+        "poster": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2923749086.webp",
+        "link": "https://movie.douban.com/subject/35483395/?from=showing",
+        "type": "new_movies"
+      },
+      {
+        "title": "死神来了：血脉诅咒 Final Destination: Bloodlines",
+        "score": 6.9,
+        "poster": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2924000768.webp",
+        "link": "https://movie.douban.com/subject/30429388/?from=showing",
+        "type": "new_movies"
+      },
+      {
+        "title": "蜗牛回忆录 Memoir of a Snail",
+        "score": 8.4,
+        "poster": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2924886534.webp",
+        "link": "https://movie.douban.com/subject/36467821/?from=showing",
+        "type": "new_movies"
+      },
+      {
+        "title": "浪浪山小妖怪",
+        "score": 8.5,
+        "poster": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2923770138.webp",
+        "link": "https://movie.douban.com/subject/36438475/?from=showing",
+        "type": "new_movies"
+      },
+      {
+        "title": "爱的暂停键 Elskling",
+        "score": 7.6,
+        "poster": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2923977957.webp",
+        "link": "https://movie.douban.com/subject/36253688/?from=showing",
+        "type": "new_movies"
+      },
+      {
+        "title": "伊甸 Eden",
+        "score": 6.9,
+        "poster": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2924041782.webp",
+        "link": "https://movie.douban.com/subject/36139721/?from=showing",
+        "type": "new_movies"
+      },
+      {
+        "title": "南京照相馆",
+        "score": 8.7,
+        "poster": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2924276740.webp",
+        "link": "https://movie.douban.com/subject/36809864/?from=showing",
+        "type": "new_movies"
+      },
+      {
+        "title": "奇遇",
+        "score": 7.2,
+        "poster": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2920978322.webp",
+        "link": "https://movie.douban.com/subject/36522427/?from=showing",
+        "type": "new_movies"
+      },
+      {
+        "title": "坏蛋联盟2 The Bad Guys 2",
+        "score": 7.6,
+        "poster": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2923073504.webp",
+        "link": "https://movie.douban.com/subject/36829507/?from=showing",
+        "type": "new_movies"
+      },
+      {
+        "title": "7天",
+        "score": 5.9,
+        "poster": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2923769862.webp",
+        "link": "https://movie.douban.com/subject/36208089/?from=showing",
+        "type": "new_movies"
+      },
+      {
+        "title": "小鹿斑比：清算 Bambi: The Reckoning",
+        "score": 4.2,
+        "poster": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2924932474.webp",
+        "link": "https://movie.douban.com/subject/36323488/?from=showing",
+        "type": "new_movies"
+      },
+      {
+        "title": "有朵云像你",
+        "score": 6.4,
+        "poster": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2924039202.webp",
+        "link": "https://movie.douban.com/subject/36638072/?from=showing",
+        "type": "new_movies"
+      },
+      {
+        "title": "同甘共苦 Together",
+        "score": 6.9,
+        "poster": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2925052115.webp",
+        "link": "https://movie.douban.com/subject/36772728/?from=showing",
+        "type": "new_movies"
+      },
+      {
+        "title": "营救飞虎",
+        "score": null,
+        "poster": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2924397468.webp",
+        "link": "https://movie.douban.com/subject/37109678/?from=showing",
+        "type": "new_movies"
+      },
+      {
+        "title": "家庭简史",
+        "score": 6.2,
+        "poster": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2924932271.webp",
+        "link": "https://movie.douban.com/subject/34935178/?from=showing",
+        "type": "new_movies"
+      },
+      {
+        "title": "地球脉动：万物有道 Planet Earth: Forces of Nature",
+        "score": null,
+        "poster": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2924932683.webp",
+        "link": "https://movie.douban.com/subject/37502490/?from=showing",
+        "type": "new_movies"
+      },
+      {
+        "title": "脱缰者也",
+        "score": 5.7,
+        "poster": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2923975215.webp",
+        "link": "https://movie.douban.com/subject/36453173/?from=showing",
+        "type": "new_movies"
+      },
+      {
+        "title": "青蛇",
+        "score": 8.6,
+        "poster": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2923862788.webp",
+        "link": "https://movie.douban.com/subject/1303394/?from=showing",
+        "type": "new_movies"
+      },
+      {
+        "title": "F1：狂飙飞车 F1: The Movie",
+        "score": 8.7,
+        "poster": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2922238175.webp",
+        "link": "https://movie.douban.com/subject/35689244/?from=showing",
+        "type": "new_movies"
+      },
+      {
+        "title": "洛桑的家事",
+        "score": null,
+        "poster": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2924927925.webp",
+        "link": "https://movie.douban.com/subject/30302348/?from=showing",
+        "type": "new_movies"
+      },
+      {
+        "title": "生还",
+        "score": null,
+        "poster": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2924321170.webp",
+        "link": "https://movie.douban.com/subject/37296895/?from=showing",
+        "type": "new_movies"
+      },
+      {
+        "title": "红丝绸 Красный шелк",
+        "score": null,
+        "poster": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2924397759.webp",
+        "link": "https://movie.douban.com/subject/36926995/?from=showing",
+        "type": "new_movies"
+      },
+      {
+        "title": "长安的荔枝",
+        "score": 7.6,
+        "poster": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2923330987.webp",
+        "link": "https://movie.douban.com/subject/36185502/?from=showing",
+        "type": "new_movies"
+      },
+      {
+        "title": "玛丽和麦克斯 Mary and Max",
+        "score": 9,
+        "poster": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2923412445.webp",
+        "link": "https://movie.douban.com/subject/3072124/?from=showing",
+        "type": "new_movies"
+      },
+      {
+        "title": "赎梦 贖夢",
+        "score": 5.9,
+        "poster": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2924250338.webp",
+        "link": "https://movie.douban.com/subject/35480795/?from=showing",
+        "type": "new_movies"
+      },
+      {
+        "title": "午夜怪谈2",
+        "score": null,
+        "poster": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2925034131.webp",
+        "link": "https://movie.douban.com/subject/37434327/?from=showing",
+        "type": "new_movies"
+      },
+      {
+        "title": "罗小黑战记2",
+        "score": 8.7,
+        "poster": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2923537864.webp",
+        "link": "https://movie.douban.com/subject/36448279/?from=showing",
+        "type": "new_movies"
+      },
+      {
+        "title": "坪石先生",
+        "score": null,
+        "poster": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2923810598.webp",
+        "link": "https://movie.douban.com/subject/36738997/?from=showing",
+        "type": "new_movies"
+      },
+      {
+        "title": "天大的事",
+        "score": null,
+        "poster": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2925290961.webp",
+        "link": "https://movie.douban.com/subject/37530034/?from=showing",
+        "type": "new_movies"
+      },
+      {
+        "title": "聊斋：兰若寺",
+        "score": 6.7,
+        "poster": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2923191863.webp",
+        "link": "https://movie.douban.com/subject/36289419/?from=showing",
+        "type": "new_movies"
+      },
+      {
+        "title": "熊孩子·探险熊兵",
+        "score": null,
+        "poster": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2924641501.webp",
+        "link": "https://movie.douban.com/subject/36319998/?from=showing",
+        "type": "new_movies"
+      },
+      {
+        "title": "夏雨来",
+        "score": null,
+        "poster": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2923770277.webp",
+        "link": "https://movie.douban.com/subject/36135242/?from=showing",
+        "type": "new_movies"
+      },
+      {
+        "title": "午夜凶镜",
+        "score": null,
+        "poster": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2924431235.webp",
+        "link": "https://movie.douban.com/subject/37247629/?from=showing",
+        "type": "new_movies"
+      },
+      {
+        "title": "无名",
+        "score": 6.6,
+        "poster": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2923651715.webp",
+        "link": "https://movie.douban.com/subject/35372742/?from=showing",
+        "type": "new_movies"
+      },
+      {
+        "title": "新龙门客栈 新龍門客棧",
+        "score": 8.7,
+        "poster": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p1421018669.webp",
+        "link": "https://movie.douban.com/subject/1292287/?from=showing",
+        "type": "new_movies"
+      },
+      {
+        "title": "德州巴黎 Paris, Texas",
+        "score": 8.4,
+        "poster": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2237305324.webp",
+        "link": "https://movie.douban.com/subject/1302061/?from=showing",
+        "type": "new_movies"
+      },
+      {
+        "title": "白丝带 Das weiße Band – Eine deutsche Kindergeschichte",
+        "score": 8.2,
+        "poster": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2196608840.webp",
+        "link": "https://movie.douban.com/subject/2464346/?from=showing",
+        "type": "new_movies"
+      },
+      {
+        "title": "玩乐时间 Play Time",
+        "score": 8.8,
+        "poster": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2192795338.webp",
+        "link": "https://movie.douban.com/subject/1303543/?from=showing",
+        "type": "new_movies"
+      },
+      {
+        "title": "猫和老鼠：星盘奇缘",
+        "score": 5.1,
+        "poster": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2923818057.webp",
+        "link": "https://movie.douban.com/subject/37263706/?from=showing",
+        "type": "new_movies"
+      },
+      {
+        "title": "蓝白红三部曲之蓝 Trois couleurs: Bleu",
+        "score": 8.5,
+        "poster": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p1978408096.webp",
+        "link": "https://movie.douban.com/subject/1292048/?from=showing",
+        "type": "new_movies"
+      },
+      {
+        "title": "中央车站 Central do Brasil",
+        "score": 8.7,
+        "poster": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2239441575.webp",
+        "link": "https://movie.douban.com/subject/1292218/?from=showing",
+        "type": "new_movies"
+      },
+      {
+        "title": "零卡社团 Club Zero",
+        "score": 5.7,
+        "poster": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2895978453.webp",
+        "link": "https://movie.douban.com/subject/34913717/?from=showing",
+        "type": "new_movies"
+      },
+      {
+        "title": "喜羊羊与灰太狼之异国破晓",
+        "score": 6.6,
+        "poster": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2923045688.webp",
+        "link": "https://movie.douban.com/subject/37337369/?from=showing",
+        "type": "new_movies"
+      },
+      {
+        "title": "神女",
+        "score": 9.1,
+        "poster": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2028929312.webp",
+        "link": "https://movie.douban.com/subject/1302210/?from=showing",
+        "type": "new_movies"
+      },
+      {
+        "title": "别把作文当回事儿",
+        "score": null,
+        "poster": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2912818847.webp",
+        "link": "https://movie.douban.com/subject/36828739/?from=showing",
+        "type": "new_movies"
+      },
+      {
+        "title": "长空之王",
+        "score": 6.5,
+        "poster": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2924485636.webp",
+        "link": "https://movie.douban.com/subject/35209731/?from=showing",
+        "type": "new_movies"
+      },
+      {
+        "title": "双姝奇缘 4 aventures de Reinette et Mirabelle",
+        "score": 8.7,
+        "poster": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p1602411185.webp",
+        "link": "https://movie.douban.com/subject/1421309/?from=showing",
+        "type": "new_movies"
+      },
+      {
+        "title": "吉普赛女王 Табор уходит в небо",
+        "score": 7.6,
+        "poster": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2206244591.webp",
+        "link": "https://movie.douban.com/subject/2295408/?from=showing",
+        "type": "new_movies"
+      },
+      {
+        "title": "蜡笔小新：大人王国的反击 クレヨンしんちゃん 嵐を呼ぶ モーレツ!オトナ帝国の逆襲",
+        "score": 9,
+        "poster": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2922328832.webp",
+        "link": "https://movie.douban.com/subject/1958667/?from=showing",
+        "type": "new_movies"
+      },
+      {
+        "title": "人生一世 Ein ganzes Leben",
+        "score": 8,
+        "poster": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2897481044.webp",
+        "link": "https://movie.douban.com/subject/35634052/?from=showing",
+        "type": "new_movies"
+      },
+      {
+        "title": "红色沙漠 Il deserto rosso",
+        "score": 7.9,
+        "poster": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2248487533.webp",
+        "link": "https://movie.douban.com/subject/1299261/?from=showing",
+        "type": "new_movies"
+      },
+      {
+        "title": "魔法鼠乐园：神秘魔法球",
+        "score": null,
+        "poster": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2924185528.webp",
+        "link": "https://movie.douban.com/subject/36075487/?from=showing",
+        "type": "new_movies"
+      },
+      {
+        "title": "小鸽子的家",
+        "score": null,
+        "poster": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2923769527.webp",
+        "link": "https://movie.douban.com/subject/37454362/?from=showing",
+        "type": "new_movies"
+      },
+      {
+        "title": "巴赫曼：沙漠之旅 Ingeborg Bachmann – Reise in die Wüste",
+        "score": 7,
+        "poster": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2887841195.webp",
+        "link": "https://movie.douban.com/subject/35496300/?from=showing",
+        "type": "new_movies"
+      },
+      {
+        "title": "音乐之光 Mademoiselle Paradis",
+        "score": 6.8,
+        "poster": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2499575122.webp",
+        "link": "https://movie.douban.com/subject/26760445/?from=showing",
+        "type": "new_movies"
+      },
+      {
+        "title": "雪上飞鹰 Klammer",
+        "score": 6.3,
+        "poster": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2891751463.webp",
+        "link": "https://movie.douban.com/subject/35507456/?from=showing",
+        "type": "new_movies"
+      }
+    ],
+    "underratedMovies": [
+      {
+        "rank": 1,
+        "title": "肖申克的救赎",
+        "score": 9.7,
+        "votes": 0,
+        "poster": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p480747492.webp",
+        "link": "https://movie.douban.com/subject/1292052/",
+        "quote": "",
+        "type": "top_250"
+      },
+      {
+        "rank": 2,
+        "title": "霸王别姬",
+        "score": 9.6,
+        "votes": 0,
+        "poster": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2561716440.webp",
+        "link": "https://movie.douban.com/subject/1291546/",
+        "quote": "",
+        "type": "top_250"
+      },
+      {
+        "rank": 19,
+        "title": "控方证人",
+        "score": 9.6,
+        "votes": 0,
+        "poster": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p1963057234.webp",
+        "link": "https://movie.douban.com/subject/1296141/",
+        "quote": "",
+        "type": "top_250"
+      },
+      {
+        "rank": 3,
+        "title": "泰坦尼克号",
+        "score": 9.5,
+        "votes": 0,
+        "poster": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p457760035.webp",
+        "link": "https://movie.douban.com/subject/1292722/",
+        "quote": "",
+        "type": "top_250"
+      },
+      {
+        "rank": 4,
+        "title": "阿甘正传",
+        "score": 9.5,
+        "votes": 0,
+        "poster": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2372307693.webp",
+        "link": "https://movie.douban.com/subject/1292720/",
+        "quote": "",
+        "type": "top_250"
+      },
+      {
+        "rank": 6,
+        "title": "美丽人生",
+        "score": 9.5,
+        "votes": 0,
+        "poster": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2578474613.webp",
+        "link": "https://movie.douban.com/subject/1292063/",
+        "quote": "",
+        "type": "top_250"
+      },
+      {
+        "rank": 11,
+        "title": "辛德勒的名单",
+        "score": 9.5,
+        "votes": 0,
+        "poster": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p492406163.webp",
+        "link": "https://movie.douban.com/subject/1295124/",
+        "quote": "",
+        "type": "top_250"
+      },
+      {
+        "rank": 5,
+        "title": "千与千寻",
+        "score": 9.4,
+        "votes": 0,
+        "poster": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2557573348.webp",
+        "link": "https://movie.douban.com/subject/1291561/",
+        "quote": "",
+        "type": "top_250"
+      },
+      {
+        "rank": 7,
+        "title": "这个杀手不太冷",
+        "score": 9.4,
+        "votes": 0,
+        "poster": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2913554676.webp",
+        "link": "https://movie.douban.com/subject/1295644/",
+        "quote": "",
+        "type": "top_250"
+      },
+      {
+        "rank": 8,
+        "title": "星际穿越",
+        "score": 9.4,
+        "votes": 0,
+        "poster": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2614988097.webp",
+        "link": "https://movie.douban.com/subject/1889243/",
+        "quote": "",
+        "type": "top_250"
+      },
+      {
+        "rank": 9,
+        "title": "盗梦空间",
+        "score": 9.4,
+        "votes": 0,
+        "poster": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p513344864.webp",
+        "link": "https://movie.douban.com/subject/3541415/",
+        "quote": "",
+        "type": "top_250"
+      },
+      {
+        "rank": 10,
+        "title": "楚门的世界",
+        "score": 9.4,
+        "votes": 0,
+        "poster": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p479682972.webp",
+        "link": "https://movie.douban.com/subject/1292064/",
+        "quote": "",
+        "type": "top_250"
+      },
+      {
+        "rank": 12,
+        "title": "忠犬八公的故事",
+        "score": 9.4,
+        "votes": 0,
+        "poster": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2587099240.webp",
+        "link": "https://movie.douban.com/subject/3011091/",
+        "quote": "",
+        "type": "top_250"
+      },
+      {
+        "rank": 13,
+        "title": "海上钢琴师",
+        "score": 9.3,
+        "votes": 0,
+        "poster": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2914698334.webp",
+        "link": "https://movie.douban.com/subject/1292001/",
+        "quote": "",
+        "type": "top_250"
+      },
+      {
+        "rank": 16,
+        "title": "放牛班的春天",
+        "score": 9.3,
+        "votes": 0,
+        "poster": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2884280708.webp",
+        "link": "https://movie.douban.com/subject/1291549/",
+        "quote": "",
+        "type": "top_250"
+      },
+      {
+        "rank": 17,
+        "title": "机器人总动员",
+        "score": 9.3,
+        "votes": 0,
+        "poster": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p1461851991.webp",
+        "link": "https://movie.douban.com/subject/2131459/",
+        "quote": "",
+        "type": "top_250"
+      },
+      {
+        "rank": 18,
+        "title": "无间道",
+        "score": 9.3,
+        "votes": 0,
+        "poster": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2564556863.webp",
+        "link": "https://movie.douban.com/subject/1307914/",
+        "quote": "",
+        "type": "top_250"
+      },
+      {
+        "rank": 21,
+        "title": "熔炉",
+        "score": 9.3,
+        "votes": 0,
+        "poster": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p1363250216.webp",
+        "link": "https://movie.douban.com/subject/5912992/",
+        "quote": "",
+        "type": "top_250"
+      },
+      {
+        "rank": 22,
+        "title": "触不可及",
+        "score": 9.3,
+        "votes": 0,
+        "poster": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p1454261925.webp",
+        "link": "https://movie.douban.com/subject/6786002/",
+        "quote": "",
+        "type": "top_250"
+      },
+      {
+        "rank": 24,
+        "title": "教父",
+        "score": 9.3,
+        "votes": 0,
+        "poster": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p616779645.webp",
+        "link": "https://movie.douban.com/subject/1291841/",
+        "quote": "",
+        "type": "top_250"
+      }
+    ]
+  },
+  "tv": {
+    "hot": [
+      {
+        "title": "赴山海",
+        "score": null,
+        "poster": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2925048009.jpg",
+        "link": "https://movie.douban.com/subject/36455616/",
+        "type": "tv_hot"
+      },
+      {
+        "title": "不眠日",
+        "score": null,
+        "poster": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2925131001.jpg",
+        "link": "https://movie.douban.com/subject/36663303/",
+        "type": "tv_hot"
+      },
+      {
+        "title": "你和其余的一切",
+        "score": 7.6,
+        "poster": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2924632393.jpg",
+        "link": "https://movie.douban.com/subject/36359381/",
+        "type": "tv_hot"
+      },
+      {
+        "title": "灼灼韶华",
+        "score": null,
+        "poster": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2925117901.jpg",
+        "link": "https://movie.douban.com/subject/36490177/",
+        "type": "tv_hot"
+      },
+      {
+        "title": "暴风圈",
+        "score": 6.1,
+        "poster": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2924431356.jpg",
+        "link": "https://movie.douban.com/subject/36331163/",
+        "type": "tv_hot"
+      },
+      {
+        "title": "莲花楼",
+        "score": 8.5,
+        "poster": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2895958304.jpg",
+        "link": "https://movie.douban.com/subject/35633163/",
+        "type": "tv_hot"
+      },
+      {
+        "title": "生万物",
+        "score": 7.2,
+        "poster": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2913404395.jpg",
+        "link": "https://movie.douban.com/subject/36689591/",
+        "type": "tv_hot"
+      },
+      {
+        "title": "花儿与少年·同心季",
+        "score": 8.2,
+        "poster": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2924183269.jpg",
+        "link": "https://movie.douban.com/subject/37116462/",
+        "type": "tv_hot"
+      },
+      {
+        "title": "十二封信",
+        "score": 7.8,
+        "poster": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2924516346.jpg",
+        "link": "https://movie.douban.com/subject/36544318/",
+        "type": "tv_hot"
+      },
+      {
+        "title": "藏海传",
+        "score": 7.1,
+        "poster": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2921513308.jpg",
+        "link": "https://movie.douban.com/subject/27181010/",
+        "type": "tv_hot"
+      },
+      {
+        "title": "欢乐家长群2",
+        "score": null,
+        "poster": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2915254177.jpg",
+        "link": "https://movie.douban.com/subject/36923876/",
+        "type": "tv_hot"
+      },
+      {
+        "title": "星期三 第二季",
+        "score": 8.4,
+        "poster": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2924118236.jpg",
+        "link": "https://movie.douban.com/subject/36208369/",
+        "type": "tv_hot"
+      },
+      {
+        "title": "混沌少年时 第一季",
+        "score": 8.7,
+        "poster": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2918781186.jpg",
+        "link": "https://movie.douban.com/subject/36820950/",
+        "type": "tv_hot"
+      },
+      {
+        "title": "凡人修仙传",
+        "score": 7.5,
+        "poster": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2923676958.jpg",
+        "link": "https://movie.douban.com/subject/35861087/",
+        "type": "tv_hot"
+      },
+      {
+        "title": "圆桌派 第八季",
+        "score": null,
+        "poster": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2925321976.jpg",
+        "link": "https://movie.douban.com/subject/37348320/",
+        "type": "tv_hot"
+      },
+      {
+        "title": "匹兹堡医护前线 第一季",
+        "score": 9.5,
+        "poster": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2920601490.jpg",
+        "link": "https://movie.douban.com/subject/36831851/",
+        "type": "tv_hot"
+      },
+      {
+        "title": "V世代 第二季",
+        "score": null,
+        "poster": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2923611991.jpg",
+        "link": "https://movie.douban.com/subject/36590911/",
+        "type": "tv_hot"
+      },
+      {
+        "title": "异形：地球 第一季",
+        "score": 7.2,
+        "poster": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2923010328.jpg",
+        "link": "https://movie.douban.com/subject/35284531/",
+        "type": "tv_hot"
+      },
+      {
+        "title": "凡人修仙传：重返天南",
+        "score": 9.5,
+        "poster": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2924351735.jpg",
+        "link": "https://movie.douban.com/subject/37156504/",
+        "type": "tv_hot"
+      },
+      {
+        "title": "归队",
+        "score": 7.9,
+        "poster": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2924617336.jpg",
+        "link": "https://movie.douban.com/subject/36448288/",
+        "type": "tv_hot"
+      }
+    ],
+    "top250": [
+      {
+        "title": "肖申克的救赎",
+        "score": 9.7,
+        "poster": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p480747492.webp",
+        "link": "https://movie.douban.com/subject/1292052/",
+        "type": "tv_top250"
+      },
+      {
+        "title": "霸王别姬",
+        "score": 9.6,
+        "poster": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2561716440.webp",
+        "link": "https://movie.douban.com/subject/1291546/",
+        "type": "tv_top250"
+      },
+      {
+        "title": "泰坦尼克号",
+        "score": 9.5,
+        "poster": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p457760035.webp",
+        "link": "https://movie.douban.com/subject/1292722/",
+        "type": "tv_top250"
+      },
+      {
+        "title": "阿甘正传",
+        "score": 9.5,
+        "poster": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2372307693.webp",
+        "link": "https://movie.douban.com/subject/1292720/",
+        "type": "tv_top250"
+      },
+      {
+        "title": "千与千寻",
+        "score": 9.4,
+        "poster": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2557573348.webp",
+        "link": "https://movie.douban.com/subject/1291561/",
+        "type": "tv_top250"
+      },
+      {
+        "title": "美丽人生",
+        "score": 9.5,
+        "poster": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2578474613.webp",
+        "link": "https://movie.douban.com/subject/1292063/",
+        "type": "tv_top250"
+      },
+      {
+        "title": "这个杀手不太冷",
+        "score": 9.4,
+        "poster": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2913554676.webp",
+        "link": "https://movie.douban.com/subject/1295644/",
+        "type": "tv_top250"
+      },
+      {
+        "title": "星际穿越",
+        "score": 9.4,
+        "poster": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2614988097.webp",
+        "link": "https://movie.douban.com/subject/1889243/",
+        "type": "tv_top250"
+      },
+      {
+        "title": "盗梦空间",
+        "score": 9.4,
+        "poster": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p513344864.webp",
+        "link": "https://movie.douban.com/subject/3541415/",
+        "type": "tv_top250"
+      },
+      {
+        "title": "楚门的世界",
+        "score": 9.4,
+        "poster": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p479682972.webp",
+        "link": "https://movie.douban.com/subject/1292064/",
+        "type": "tv_top250"
+      },
+      {
+        "title": "辛德勒的名单",
+        "score": 9.5,
+        "poster": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p492406163.webp",
+        "link": "https://movie.douban.com/subject/1295124/",
+        "type": "tv_top250"
+      },
+      {
+        "title": "忠犬八公的故事",
+        "score": 9.4,
+        "poster": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2587099240.webp",
+        "link": "https://movie.douban.com/subject/3011091/",
+        "type": "tv_top250"
+      },
+      {
+        "title": "海上钢琴师",
+        "score": 9.3,
+        "poster": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2914698334.webp",
+        "link": "https://movie.douban.com/subject/1292001/",
+        "type": "tv_top250"
+      },
+      {
+        "title": "疯狂动物城",
+        "score": 9.2,
+        "poster": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2923817996.webp",
+        "link": "https://movie.douban.com/subject/25662329/",
+        "type": "tv_top250"
+      },
+      {
+        "title": "三傻大闹宝莱坞",
+        "score": 9.2,
+        "poster": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p579729551.webp",
+        "link": "https://movie.douban.com/subject/3793023/",
+        "type": "tv_top250"
+      },
+      {
+        "title": "放牛班的春天",
+        "score": 9.3,
+        "poster": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2884280708.webp",
+        "link": "https://movie.douban.com/subject/1291549/",
+        "type": "tv_top250"
+      },
+      {
+        "title": "机器人总动员",
+        "score": 9.3,
+        "poster": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p1461851991.webp",
+        "link": "https://movie.douban.com/subject/2131459/",
+        "type": "tv_top250"
+      },
+      {
+        "title": "无间道",
+        "score": 9.3,
+        "poster": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2564556863.webp",
+        "link": "https://movie.douban.com/subject/1307914/",
+        "type": "tv_top250"
+      },
+      {
+        "title": "控方证人",
+        "score": 9.6,
+        "poster": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p1963057234.webp",
+        "link": "https://movie.douban.com/subject/1296141/",
+        "type": "tv_top250"
+      },
+      {
+        "title": "大话西游之大圣娶亲",
+        "score": 9.2,
+        "poster": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2455050536.webp",
+        "link": "https://movie.douban.com/subject/1292213/",
+        "type": "tv_top250"
+      },
+      {
+        "title": "熔炉",
+        "score": 9.3,
+        "poster": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p1363250216.webp",
+        "link": "https://movie.douban.com/subject/5912992/",
+        "type": "tv_top250"
+      },
+      {
+        "title": "触不可及",
+        "score": 9.3,
+        "poster": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p1454261925.webp",
+        "link": "https://movie.douban.com/subject/6786002/",
+        "type": "tv_top250"
+      },
+      {
+        "title": "寻梦环游记",
+        "score": 9.1,
+        "poster": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2505426431.webp",
+        "link": "https://movie.douban.com/subject/20495023/",
+        "type": "tv_top250"
+      },
+      {
+        "title": "教父",
+        "score": 9.3,
+        "poster": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p616779645.webp",
+        "link": "https://movie.douban.com/subject/1291841/",
+        "type": "tv_top250"
+      },
+      {
+        "title": "当幸福来敲门",
+        "score": 9.1,
+        "poster": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p1312700628.webp",
+        "link": "https://movie.douban.com/subject/1849031/",
+        "type": "tv_top250"
+      }
+    ]
+  },
+  "variety": {
+    "hot": [
+      {
+        "title": "现在就出发 第二季",
+        "score": 8.8,
+        "poster": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2914336003.jpg",
+        "link": "https://movie.douban.com/subject/36540851/",
+        "type": "variety_hot"
+      },
+      {
+        "title": "花儿与少年·丝路季",
+        "score": 9.3,
+        "poster": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2900797398.jpg",
+        "link": "https://movie.douban.com/subject/36247293/",
+        "type": "variety_hot"
+      },
+      {
+        "title": "粉雄救兵 第九季",
+        "score": 8.1,
+        "poster": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2914607701.jpg",
+        "link": "https://movie.douban.com/subject/36642339/",
+        "type": "variety_hot"
+      },
+      {
+        "title": "喜剧之王单口季",
+        "score": 8.3,
+        "poster": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2911851430.jpg",
+        "link": "https://movie.douban.com/subject/36868615/",
+        "type": "variety_hot"
+      },
+      {
+        "title": "再见爱人 第四季",
+        "score": 6.4,
+        "poster": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2914330680.jpg",
+        "link": "https://movie.douban.com/subject/36642447/",
+        "type": "variety_hot"
+      },
+      {
+        "title": "明星大侦探 第五季",
+        "score": 8.3,
+        "poster": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2574618624.jpg",
+        "link": "https://movie.douban.com/subject/30446494/",
+        "type": "variety_hot"
+      },
+      {
+        "title": "喜人奇妙夜",
+        "score": 7.5,
+        "poster": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2909967290.jpg",
+        "link": "https://movie.douban.com/subject/36540857/",
+        "type": "variety_hot"
+      },
+      {
+        "title": "思想验证区域：The Community",
+        "score": 9.5,
+        "poster": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2903848858.jpg",
+        "link": "https://movie.douban.com/subject/36722428/",
+        "type": "variety_hot"
+      },
+      {
+        "title": "明星大侦探 第一季",
+        "score": 9.4,
+        "poster": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2328705965.jpg",
+        "link": "https://movie.douban.com/subject/26737158/",
+        "type": "variety_hot"
+      },
+      {
+        "title": "黑白厨师：料理阶级战争 第一季",
+        "score": 8.7,
+        "poster": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2912027568.jpg",
+        "link": "https://movie.douban.com/subject/36598424/",
+        "type": "variety_hot"
+      },
+      {
+        "title": "克拉克森的农场 第三季",
+        "score": 9.6,
+        "poster": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2907412231.jpg",
+        "link": "https://movie.douban.com/subject/36181862/",
+        "type": "variety_hot"
+      },
+      {
+        "title": "快乐再出发",
+        "score": 9.6,
+        "poster": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2885753659.jpg",
+        "link": "https://movie.douban.com/subject/35918457/",
+        "type": "variety_hot"
+      },
+      {
+        "title": "十三邀 第一季",
+        "score": 8.4,
+        "poster": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2410313518.jpg",
+        "link": "https://movie.douban.com/subject/26801784/",
+        "type": "variety_hot"
+      },
+      {
+        "title": "脱口秀和Ta的朋友们",
+        "score": 6.8,
+        "poster": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2911437243.jpg",
+        "link": "https://movie.douban.com/subject/36742889/",
+        "type": "variety_hot"
+      },
+      {
+        "title": "极限挑战 第一季",
+        "score": 9.3,
+        "poster": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2603241359.jpg",
+        "link": "https://movie.douban.com/subject/26387728/",
+        "type": "variety_hot"
+      },
+      {
+        "title": "女子推理社 第一季",
+        "score": 8.5,
+        "poster": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2890783605.jpg",
+        "link": "https://movie.douban.com/subject/35907888/",
+        "type": "variety_hot"
+      },
+      {
+        "title": "女子推理社 第二季",
+        "score": 8.9,
+        "poster": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2915150934.jpg",
+        "link": "https://movie.douban.com/subject/36642543/",
+        "type": "variety_hot"
+      },
+      {
+        "title": "一年一度喜剧大赛",
+        "score": 8.6,
+        "poster": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2701105839.jpg",
+        "link": "https://movie.douban.com/subject/35467072/",
+        "type": "variety_hot"
+      },
+      {
+        "title": "快乐再出发 第二季",
+        "score": 9.5,
+        "poster": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2885581294.jpg",
+        "link": "https://movie.douban.com/subject/36036719/",
+        "type": "variety_hot"
+      },
+      {
+        "title": "再见爱人",
+        "score": 8.9,
+        "poster": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2673374680.jpg",
+        "link": "https://movie.douban.com/subject/35438177/",
+        "type": "variety_hot"
+      }
+    ]
+  },
+  "anime": {
+    "hot": [
+      {
+        "title": "光逝去的夏天",
+        "score": 8.6,
+        "poster": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2919559763.jpg",
+        "link": "https://movie.douban.com/subject/36902197/",
+        "type": "anime_hot"
+      },
+      {
+        "title": "胆大党 第二季",
+        "score": 8.8,
+        "poster": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2920035883.jpg",
+        "link": "https://movie.douban.com/subject/37168697/",
+        "type": "anime_hot"
+      },
+      {
+        "title": "薰香花朵凛然绽放",
+        "score": 8,
+        "poster": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2919625150.jpg",
+        "link": "https://movie.douban.com/subject/37046584/",
+        "type": "anime_hot"
+      },
+      {
+        "title": "葬送的芙莉莲",
+        "score": 9.4,
+        "poster": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2897218476.jpg",
+        "link": "https://movie.douban.com/subject/36093351/",
+        "type": "anime_hot"
+      },
+      {
+        "title": "小城日常",
+        "score": 9,
+        "poster": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2923030500.jpg",
+        "link": "https://movie.douban.com/subject/37054059/",
+        "type": "anime_hot"
+      },
+      {
+        "title": "鬼灭之刃",
+        "score": 9.1,
+        "poster": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2551222097.jpg",
+        "link": "https://movie.douban.com/subject/30210221/",
+        "type": "anime_hot"
+      },
+      {
+        "title": "启示录酒店",
+        "score": 8.9,
+        "poster": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2919593768.jpg",
+        "link": "https://movie.douban.com/subject/37028590/",
+        "type": "anime_hot"
+      },
+      {
+        "title": "碧蓝之海 第二季",
+        "score": 8.7,
+        "poster": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2922482561.jpg",
+        "link": "https://movie.douban.com/subject/36889950/",
+        "type": "anime_hot"
+      },
+      {
+        "title": "坂本日常 Part 2",
+        "score": 8,
+        "poster": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2919757239.jpg",
+        "link": "https://movie.douban.com/subject/37291778/",
+        "type": "anime_hot"
+      },
+      {
+        "title": "我们不可能成为恋人！绝对不行。(※似乎可行!?)",
+        "score": 8.4,
+        "poster": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2922372945.jpg",
+        "link": "https://movie.douban.com/subject/37037752/",
+        "type": "anime_hot"
+      },
+      {
+        "title": "胆大党",
+        "score": 8,
+        "poster": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2913113891.jpg",
+        "link": "https://movie.douban.com/subject/36171155/",
+        "type": "anime_hot"
+      },
+      {
+        "title": "怪兽8号 第二季",
+        "score": 7,
+        "poster": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2923239879.jpg",
+        "link": "https://movie.douban.com/subject/36948586/",
+        "type": "anime_hot"
+      },
+      {
+        "title": "废渊战鬼",
+        "score": 7,
+        "poster": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2922385757.jpg",
+        "link": "https://movie.douban.com/subject/36929965/",
+        "type": "anime_hot"
+      },
+      {
+        "title": "新吊带袜天使",
+        "score": 8.9,
+        "poster": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2922534848.jpg",
+        "link": "https://movie.douban.com/subject/35964258/",
+        "type": "anime_hot"
+      },
+      {
+        "title": "迷宫饭",
+        "score": 9.2,
+        "poster": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2892625898.jpg",
+        "link": "https://movie.douban.com/subject/35801594/",
+        "type": "anime_hot"
+      },
+      {
+        "title": "海贼王",
+        "score": 9.5,
+        "poster": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2901784449.jpg",
+        "link": "https://movie.douban.com/subject/1453238/",
+        "type": "anime_hot"
+      },
+      {
+        "title": "新世纪福音战士",
+        "score": 9.3,
+        "poster": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2026157878.jpg",
+        "link": "https://movie.douban.com/subject/1457573/",
+        "type": "anime_hot"
+      },
+      {
+        "title": "银魂",
+        "score": 9.6,
+        "poster": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2267457536.jpg",
+        "link": "https://movie.douban.com/subject/2057171/",
+        "type": "anime_hot"
+      },
+      {
+        "title": "章鱼噼的原罪",
+        "score": 7.9,
+        "poster": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2921756127.jpg",
+        "link": "https://movie.douban.com/subject/37105295/",
+        "type": "anime_hot"
+      },
+      {
+        "title": "跃动青春",
+        "score": 9.4,
+        "poster": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2888477017.jpg",
+        "link": "https://movie.douban.com/subject/35679677/",
+        "type": "anime_hot"
+      }
+    ]
+  },
+  "timestamp": "2025-09-18T12:52:47.877Z"
+}
